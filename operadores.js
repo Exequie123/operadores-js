@@ -4,6 +4,7 @@ var saludo = 'Hola' + nombre;
 console.log(saludo);
 
 console.log('73' < '9')
+console.log(34 + 88)
 
 
 console.log("Hello" + "Facha")
